@@ -14,7 +14,7 @@ class _WidgetWithoutPreCacheImageState
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Not Precached"),
+        title: const Text("Without Precached"),
       ),
       body: const Center(
         child: Image(
